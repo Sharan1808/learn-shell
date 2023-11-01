@@ -1,7 +1,16 @@
 # learn-shell
 
-shell scripting Topics:
+List of Shell scripting Topics:
 -------------------------------
 
-comments
-delete
+1. Comments
+2. Prints
+3. Variables
+4. Functions
+5. Conditions
+6. Loops
+7. Redirectors
+8. Quotes
+9. SED editor
+10. Exit status
+

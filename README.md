@@ -9,7 +9,7 @@ List of Shell scripting Topics:
 4. Functions
 5. Conditions
 6. Loops
-7. Redirectors
+7. Redirector
 8. Quotes
 9. SED editor
 10. Exit status

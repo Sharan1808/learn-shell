@@ -11,7 +11,7 @@ while [ "$a" -gt 0 ]; do
 done
 
 for fruit in apple banana orange; do
-  eho Fruit Name -$fruit
+  echo Fruit Name -$fruit
   sleep 1
 done
 
